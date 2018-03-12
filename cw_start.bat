@@ -1,0 +1,1 @@
+cw "C:\Users\<user.name>\Pictures\<wallpaperfile>"
