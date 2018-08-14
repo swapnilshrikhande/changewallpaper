@@ -8,3 +8,4 @@ Steps to set wallpaper
 2. Create a shortcut of cw_start.bat inside 
    C:\Users\<username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 Note: Above step will execute the program everytime the pc boots to make sure the wallpaper is refreshed.
+3. On desktop load the background may turn black for some time, refresh once to view the wallpaper
