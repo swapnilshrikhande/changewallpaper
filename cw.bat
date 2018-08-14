@@ -9,4 +9,6 @@ FOR %%p IN ("%APPDATA%\Microsoft\Windows\Themes\CachedFiles\*") DO (
 	Copy %copyPath% %%p
 )
 
+Copy %copyPath% "%APPDATA%\Microsoft\Windows\Themes\TranscodedWallpaper"
+
 ::EXIT
