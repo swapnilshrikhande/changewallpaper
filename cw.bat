@@ -5,7 +5,7 @@ echo %copyPath%
 
 
 FOR %%p IN ("%APPDATA%\Microsoft\Windows\Themes\CachedFiles\*") DO (
-	echo "in loop"
+	echo "Hold tight...Setting Wallpaper..."
 	Copy %copyPath% %%p
 )
 
