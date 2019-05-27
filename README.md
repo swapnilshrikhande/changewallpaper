@@ -1,7 +1,7 @@
 ---
 Project: Change Wallpaper 
 Version: 1.0
-Currently Tested On: Window 8
+Currently Tested On: Window 8 & 10
 ---
 Method 1 : Steps to set wallpaper
 1. Edit cw_start.bat to set the path to the image file 
